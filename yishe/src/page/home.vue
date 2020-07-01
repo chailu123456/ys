@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-        <navs>首页</navs>
+        <navs>首页1</navs>
         <div class="banner">
             <van-swipe  :autoplay="3000">
                 <van-swipe-item v-for="(image, index) in images" :key="index">
