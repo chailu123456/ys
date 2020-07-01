@@ -4,7 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import Vant from 'vant'
-import 'vant/lib/vant-css/index.css'
+// import 'vant/lib/index.css';
 Vue.config.productionTip = false
 Vue.use(Vant);
 // or with options (options 为可选参数，无则不传)
