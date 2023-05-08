@@ -31,7 +31,7 @@ export default {
 
 }
 .main {
-	height: 90%;
+	height: 100%;
 }
 .navs {
   color: #ffffff
