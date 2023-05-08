@@ -11,7 +11,7 @@
 import tab from '@/components/tab'
 export default {
   name: 'App',
-  components:{
+  components: {
     tab
   }
 }
@@ -32,7 +32,7 @@ export default {
 }
 .main {
 	height: 100%;
-  font-size: 20px;
+  font-size: 29px;
 }
 .navs {
   color: #ffffff
