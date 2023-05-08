@@ -32,7 +32,7 @@ export default {
 }
 .main {
 	height: 100%;
-  font-size: 22px;
+  font-size: 20px;
 }
 .navs {
   color: #ffffff
